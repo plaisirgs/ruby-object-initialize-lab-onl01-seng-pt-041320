@@ -4,6 +4,6 @@ class Person
   end
 
   def name
-  @breed
+  @name
   end
 end
