@@ -1,4 +1,4 @@
-class Person
+class Person(name)
   def name=(name)
     @name = name
   end
@@ -7,5 +7,3 @@ class Person
   @name
   end
 end
-
-Person.new
